@@ -34,8 +34,18 @@ git command code
 beginner
 
 .gitignore >>> git ပေါ်ကိုမတင်စေချင်တဲ့ ဖိုင်တွေကို ရေးပေးလို့ရတယ်
+git config --global user.name "KaungMyatHun-15691"
+git config --global user.email "kaungmyathun7@gmail.com"
 initialize >>> git init 
 log 
 git add (add ချင်တဲ့ဖိုင်ကိုရေး)
 git add text.txt
+>>>>>>>>
 git add .
+git commit >>>> file ဘယ်လို comment တင်မှာ chart js 
+git commit -m "using chart js"
+(တစ်ကြိမ်)git remote add origin https://github.com/KaungMyatHun-15691/web-foundation.git
+(တစ်ကြိမ်)git branch -M(create branch ကို ပြောင်းလိုက်ပါ) branch-name
+branch-name === main / dev ()
+git branch -M dev
+git push origin branch-name
