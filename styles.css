@@ -1,0 +1,99 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.card{
+  width: 500px;
+  height: auto;
+  box-shadow: 2px 2px 5px #000;
+  border-radius: 10px;
+  border: 1px solid #7f7f7f;
+  margin: 30px;
+}
+.profile-image{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin: 10px;
+}
+.profile-name{
+  margin-top: -45px;
+  margin-left: 60px;
+  font-size: 16px;
+  font-weight: 700;
+  font-family: sans-serif;
+  color: #4e4e4e;
+}
+.card-image{
+  width: 90%;
+  margin: 25px;
+  border-radius: 5px;
+}
+.card-text{
+  margin: 0px 25px 25px 25px;
+}
+.card-button{
+  padding: 8px 15px;
+  margin: 0px 25px 25px 25px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+.position-container{
+  width: 300px;
+  height: 300px;
+  background-color: #7f7f7f;
+  position:fixed;
+  top: 40px;
+  right: 20px;
+}
+.position-absolute{
+  position: absolute;
+  top: 0px;
+}
+.position-relative{
+  position: relative;
+  background-color: #007bff;
+  width: 100px;
+  height: 100px;  
+  margin: 100px;
+}
+.position-sitcky{
+  position: sticky;
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+  top: 100px;
+  margin-left: 100px;
+}
+
+.one,.two, .three{
+  /* one two three  တူညီတဲ့ css  */
+  width: 200px;
+}
+.one{
+  background-color: #000;
+  height: 200px;
+}
+.two{
+  background-color: #007bff;
+  height: 300px;
+}
+.three{
+  background-color: crimson;
+  height: 100px;
+}
+
+.flex{
+  display: flex;
+  gap: 10px;
+  width: 100vw;
+  height: 100vh;
+  background-color: yellow;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

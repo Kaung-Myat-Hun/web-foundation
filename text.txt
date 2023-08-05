@@ -1,0 +1,41 @@
+form 
+div
+    label
+    input x 2 
+div
+showpass checkbox 
+button (submit)
+a tag 
+
+div container
+
+Admin 
+navbar >>> LOGO /// link 
+sidemenu content
+
+senmantic 
+
+div <<< 
+sidemenu >> 
+article >> 
+footer >> 
+nav >>
+
+chart js ( js )
+
+version control system (VCS)
+git 
+github >> git cloud storage 
+laptop >> pc 
+data lost 
+
+git cli (command line interface)
+git command code 
+beginner
+
+.gitignore >>> git ပေါ်ကိုမတင်စေချင်တဲ့ ဖိုင်တွေကို ရေးပေးလို့ရတယ်
+initialize >>> git init 
+log 
+git add (add ချင်တဲ့ဖိုင်ကိုရေး)
+git add text.txt
+git add .
